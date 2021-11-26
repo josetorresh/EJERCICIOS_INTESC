@@ -1,0 +1,16 @@
+#ENTRADAS
+	net SELECTOR(0) loc = B14;
+	net SELECTOR(1) loc = C14;
+	net SELECTOR(2) loc = D13;
+	net B loc = E14;
+	net A loc = F13;
+	
+#SALIDAS
+	net LEDS(0) loc = G15;
+	net LEDS(1) loc = C15;
+	net LEDS(2) loc = D15;
+	net LEDS(3) loc = E15;
+	net LEDS(4) loc = F15;
+	net LEDS(5) loc = M15;
+	net LEDS(6) loc = N15;
+	net LEDS(7) loc = P15;
